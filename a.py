@@ -52,3 +52,12 @@ if uploaded_file is not None:
         result = "Unknown prediction"
 
     st.write("Prediction:", result)
+
+# Download images section
+st.subheader("Download Sample Images")
+
+# Link to Google Drive folder
+drive_link = "https://drive.google.com/drive/folders/1rlncYHJT8I6QDgzdrJLR83qi-SXMiizc?usp=sharing"  # Replace with your folder link
+
+st.write("You can download sample images from the following link:")
+st.markdown(f"[Download Sample Images from Google Drive]({drive_link})")
