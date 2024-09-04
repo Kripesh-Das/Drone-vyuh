@@ -20,7 +20,7 @@ def preprocess_image(image_bytes):
     return img_array
 
 # Define the Streamlit app
-st.title("Image Classification with VGG-19")
+st.title("AeroGuard AI")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
