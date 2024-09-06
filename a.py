@@ -87,7 +87,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-  st.title("🤖 Drone-vyuh")
+st.title("🤖 Drone-vyuh")
 st.write("Upload an image to classify it's drone or bird.")
 
 # Upload Image
