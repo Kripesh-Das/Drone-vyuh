@@ -105,8 +105,8 @@ if uploaded_file is not None:
     
     # Map the prediction to specific rotor types or items
     result_map = {
-        0: "🌀 Long Blades Rotor",
-        1: "🌀 Short Blade Rotor",
+        0: "🌀 3 Long Blades Rotor",
+        1: "🌀 3 Short Blade Rotor",
         2: "🦜 Bird",
         3: "🦜 Bird + 2 Blade Rotor",
         4: "✈️ RC Plane",
