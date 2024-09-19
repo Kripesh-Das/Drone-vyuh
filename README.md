@@ -96,4 +96,4 @@ This project is licensed under the MIT License.
 ---
 
 ## **Contact**
-For more information, contact **your-email@example.com**.
+For more information, contact **sagnikdas5432@gmail.com**.
