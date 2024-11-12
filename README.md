@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-## **Project Link - https://oy25r2cxfmdsnpr45m7qti.streamlit.app/ **
+## **Project Link - https://oy25r2cxfmdsnpr45m7qti.streamlit.app/**
 ### **Description**
 The increasing presence of unmanned aerial vehicles (UAVs) presents significant privacy and security risks. Drones, often confused with birds due to similar flight characteristics, require accurate identification to mitigate these threats, particularly in search and rescue operations, surveillance, and critical infrastructure protection.
 
