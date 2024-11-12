@@ -82,18 +82,3 @@ We incorporate **AWS Simple Notification Service (SNS)** for real-time alerts:
 - **Expand Classification to Multiple Objects**: Extend the system to classify additional airborne objects, such as helicopters or larger aircraft.
 - **Enhanced Privacy with Homomorphic Encryption**: Integrate homomorphic encryption for even greater privacy in radar data sharing.
 
----
-
-## **Contributors**
-- **Your Name**: Project lead and developer.
-- **Team Members**: Collaborators, if any.
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-## **Contact**
-For more information, contact **sagnikdas5432@gmail.com**.
